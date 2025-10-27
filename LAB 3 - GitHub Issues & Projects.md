@@ -114,6 +114,6 @@
 ---
 ### References:
 
-GitHub Issues Quickstart  https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart
+[GitHub Issues Quickstart](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart)
 
-GitHub Projects Quickstart  https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
+[GitHub Projects Quickstart](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
